@@ -1,5 +1,5 @@
 # Project-1--Securing-A-Web-App
-Securing Web App
+
 One of my key accomplishments from the UT Austin Cybersecurity Bootcamp was the creation of a custom web application, which I deployed via Azure web applications. While the website is no longer active due to the cost of Azure cloud services, I have preserved the project in this repository.
 
 The deployment process involved several important steps. First, I deployed a docker container via Azure Web Apps, and then manually configured the HTML to achieve the desired layout. During this phase, both the LinkedIn redirect and email link were fully operational.

@@ -1,4 +1,4 @@
-# Project-1--Securing-A-Web-App
+# Project-1-Securing-Cloud-Applications
 
 Technologies Used: Azure: {Keyvaults, App Services, Front Door, WAF}
                                 PHP, HTML, Docker, OpenSSL
